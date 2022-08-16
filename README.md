@@ -1,1 +1,3 @@
-# introdu-o-a-programa-o-em-python
+# introdução-a-programação-em-python
+
+resoluções das questões do livro Introdução à Programação em Python
